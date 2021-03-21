@@ -6,14 +6,14 @@ body {
 }
 
 .title {
-    color: #16697A;
+    color: #bf0020;
     text-align: center;
     margin-bottom: 1em;
 }
 
 .entry-textbox {
-    background-color: #FFA62B;
-    width: 20em;
+    background-color: #f58484;
+    width: 40em;
     height: 10em;
     padding: 1em;
     margin-bottom: 0.5em;
@@ -30,18 +30,18 @@ body {
     border: unset;
     border-radius: 25px;
     padding: 5px 16px;
-    margin-left: 76%;
+    margin-left: 87%;
 }
  
  #entries {
-     background: #16697A;
-     color: #EDE7E3;
+     background: #d9c93d;
+     color: #001359;
      font-family: cursive;
      padding: 2em;
-     max-width: 20em;
+     max-width: 40em;
      border: unset;
      border-radius: 25px;
-     margin-top: 1em;
+     margin-top: 2em;
  }
  
  .entries-nav {
@@ -50,6 +50,7 @@ body {
  
  .display-entry-button {
      margin: 0.2em;
+     border-radius: 5px;
  }
  
  .display-entry-button:hover {
